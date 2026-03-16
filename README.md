@@ -4,6 +4,9 @@ crazy shit
 
 ## Exporting
 
-Client: `packwiz modrinth export`
+For client: `packwiz modrinth export`
 
-Server: `./server-build.sh`
+For server:
+
+- Linux: `./server-build.sh`
+- Windows: `server-build.cmd`
