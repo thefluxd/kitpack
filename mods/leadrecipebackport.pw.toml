@@ -1,0 +1,13 @@
+name = "LeadRecipeBackport"
+filename = "leadrecipebackport-v1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DkAy6vHc/versions/ur2iAGAa/leadrecipebackport-v1.0.0.jar"
+hash-format = "sha512"
+hash = "f66ab685f34df5a4bbf87f1e1afd27761db199b126241c64268c6688895f22e730ae0ccf52ac6eb1cf3529547afc6d62acae88fab81726c68213038e4f17a7ed"
+
+[update]
+[update.modrinth]
+mod-id = "DkAy6vHc"
+version = "ur2iAGAa"

@@ -1,0 +1,13 @@
+name = "PVP Flagging"
+filename = "pvp_flagging-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kGSrY7gn/versions/jUemph1x/pvp_flagging-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "897d233d66615b229ce8dca580765b715d24960f135cccf6e1f49e6c9fba029f9c923c79af58ddf9570b4fb212e26a4b19d32e53308c475bf0ae1fbe637b3a25"
+
+[update]
+[update.modrinth]
+mod-id = "kGSrY7gn"
+version = "jUemph1x"

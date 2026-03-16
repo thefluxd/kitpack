@@ -1,0 +1,13 @@
+name = "No Global Sounds"
+filename = "noglobalsounds-forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2nUv92lQ/versions/eoivsURs/noglobalsounds-forge-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "53899f4ae2e5b6f7bf135116406cb0839ddb5a2e8c6618f02c86ddfb6ac6fd86064038fa857da6a2b728c7da9859c0b9330bfb0eef0b33e26b6bafde9867dc61"
+
+[update]
+[update.modrinth]
+mod-id = "2nUv92lQ"
+version = "eoivsURs"

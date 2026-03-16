@@ -1,0 +1,13 @@
+name = "Silent's Delight"
+filename = "silentsdelight-forge-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dzrjiUho/versions/OqUIr162/silentsdelight-forge-1.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "ac2a60371cfd32effdc421e0f7202e5571703c402b567345765b6421dfe9e681867cb3a5d5bff726b82ccffdcf6d9032f540d2146eefc87107ae16e2b7bddcc5"
+
+[update]
+[update.modrinth]
+mod-id = "dzrjiUho"
+version = "OqUIr162"

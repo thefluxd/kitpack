@@ -1,0 +1,13 @@
+name = "Create: Fast Schematic Cannon"
+filename = "CreateFastSchematicCannon-1.4.1-6.0.x-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DebMSCVn/versions/6TrKAzWN/CreateFastSchematicCannon-1.4.1-6.0.x-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "901830d3b303f0c9bfccbe86eb4722b57390280ea93089c0aa2d692975364e91985cc34c74c700e4f77f32da52cdaa7046b54bac4a98b923f15fcb33168c023c"
+
+[update]
+[update.modrinth]
+mod-id = "DebMSCVn"
+version = "6TrKAzWN"
